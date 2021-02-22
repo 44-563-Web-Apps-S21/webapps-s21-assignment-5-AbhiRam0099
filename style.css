@@ -15,3 +15,15 @@ img{
 img:hover {
     box-shadow: 5px 4px 10px #8B0000;
   }
+  table, td,tr,th {
+    border: 2px solid black;
+  }
+
+  .table{
+      padding: 5px;
+  }
+ 
+  .navbar navbar-dark bg-dark{
+      align-items: center;
+      position: relative;
+  }
