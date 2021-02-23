@@ -27,3 +27,11 @@ img:hover {
       align-items: center;
       position: relative;
   }
+
+  form{
+      padding-left: 10px;
+  }
+  .card-deck{
+      padding: 8px;
+      
+  }
